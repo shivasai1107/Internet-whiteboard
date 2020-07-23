@@ -119,7 +119,7 @@ class Toolmgmt():
         self.can = canvas
         self.can_name = canvas_name
 
-    def Nothing(self, master):
+    def Nothing(self, main):
         pass
 
     def Unbind(self):
